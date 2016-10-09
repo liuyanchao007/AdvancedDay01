@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 在xml中定义id -->
+    <item name="card_elevation" type="id"/>
+
+    <item name="card_radius" type="id"/>
+
+</resources>
